@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai.md",
+                "file": "Obsidian远程同步github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ai"
+              "title": "Obsidian远程同步github"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ai.md",
+                "file": "Obsidian远程同步github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ai 的反向链接列表"
+              "title": "Obsidian远程同步github 的反向链接列表"
             }
           },
           {
@@ -200,8 +200,8 @@
   },
   "active": "0423bda913ead62a",
   "lastOpenFiles": [
-    "Obsidian远程同步github.md",
     "ai.md",
+    "Obsidian远程同步github.md",
     "新建 文本文档.txt"
   ]
 }
